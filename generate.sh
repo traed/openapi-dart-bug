@@ -1,0 +1,1 @@
+docker run --rm -v $PWD:/local openapitools/openapi-generator-cli generate -i $1 -g dart --enable-post-process-file --global-property apiTests=false,modelTests=false -c /local/spec.yaml -o /local/sdk

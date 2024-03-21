@@ -1,0 +1,8 @@
+# Config options for the dart generator
+#
+# See: https://openapi-generator.tech/docs/installation
+#
+pubName: test_api_sdk
+pubVersion: 1.0.0
+pubHomepage: https://github.com/traed/openapi-dart-bug
+pubDescription: "Demo for a bug"
